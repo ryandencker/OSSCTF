@@ -1,1 +1,3 @@
-crypto challenges here
+T1NTQ1RGe0I0NTNfNjRfMTVfN0gzX0IzNTd9Cg==
+
+OSSCTF{B453_64_15_7H3_B357}
