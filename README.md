@@ -8,8 +8,9 @@ Rules:
 3. All of your team members must be present at the event
 4. If one of your team members is not present at the awards ceremony, you will be disqualified (unless circumstances are communicated with thedanker) 
 5. Teams may not collaborate with other teams on challenges
-6. Here is a flag if you are looking for one OSSCTF{}
-7. Do not sabotage other teams that are competing in OSSCON CTF
+6. Flags will be in the format "OSSCTF{flag}" unless specified otherwise
+7. Here is a flag if you are looking for one OSSCTF{}
+8. Do not sabotage other teams that are competing in OSSCON CTF
 9. Do not steal flags from other teams that are competing in OSSCON CTF
 10. Disruption of other teams may result in a penalty or disqualification.
 11. OSSCON CTF Competition Starts at 9 am and ends at 4:30 pm sharp. Any flag submissions after 4:30 pm will not count towards final placings.
