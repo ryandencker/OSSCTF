@@ -1,7 +1,7 @@
-T1NTQ1RGe0I0NTNfNjRfMTVfN0gzX0IzNTd9Cg==
+T1NTQ1RGe0I0NTM2NF9NWV9CM0wwVjNEfQo=
 
-T1N[corrupted]Q1RGe0I0NTNfNjRfM[corrupted]VfN0gzX0IzNTd9Cg==
+T1N[corrupted x 4]Ge0I0NTM2NF9NWV9CM0wwVjNEfQo=
 
-o no something happened to 2 of the characters!
+o no something happened to 4 of the characters!
 
-OSSCTF{B453_64_15_7H3_B357}
+OSSCTF{B45364_MY_B3L0V3D}
