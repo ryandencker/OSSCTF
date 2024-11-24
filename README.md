@@ -9,7 +9,7 @@ Rules:
 4. If one of your team members is not present at the awards ceremony, you will be disqualified (unless circumstances are communicated with thedanker) 
 5. Teams may not collaborate with other teams on challenges
 6. Flags will be in the format "OSSCTF{flag}" unless specified otherwise
-7. Here is a flag if you are looking for one OSSCTF{}
+7. Here is a flag if you are looking for one OSSCTF{3XP3R13N53_7H3_8L457}
 8. Do not sabotage other teams that are competing in OSSCON CTF
 9. Do not steal flags from other teams that are competing in OSSCON CTF
 10. Disruption of other teams may result in a penalty or disqualification.
