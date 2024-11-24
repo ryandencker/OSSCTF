@@ -1,1 +1,3 @@
 first challenge for OSINT is just directing the player to the instruction page and the flag will be in the directions somewhere
+
+OSSCTF{3XP3R13N53_7H3_8L457}
