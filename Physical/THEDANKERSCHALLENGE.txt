@@ -1,9 +1,0 @@
- (SUPER COOL) (prob will be a box thing or something 3d printed or an arduino contraption)
-  Idea 1: arduino that you have to complete 3 challenges to light up LEDs to get the flag
-	  Chal 1 - there is a blinking led and a microphone and you need to knock at the same pace as the LED to turn on the LED for 10 seconds
-	  Chal 2 - there is a light sensor that as long as it is covered, another LED will be on
-    Chal 3 - 
-
-  Idea 2: maybe something 3D printed? if the stupid 3D printers decide to work
-
-  Idea 3: idk man
