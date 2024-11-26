@@ -6,7 +6,7 @@ Rules:
 1. Do not brute force flags
 2. Your team must consist of no more than four (4) people
 3. All of your team members must be present at the event
-4. If one of your team members is not present at the awards ceremony, you will be disqualified (unless circumstances are communicated with thedanker) 
+4. If the majority of team members are not present at the awards ceremony, you will be disqualified from placing/prizes (unless circumstances are communicated with thedanker) 
 5. Teams may not collaborate with other teams on challenges
 6. Flags will be in the format "OSSCTF{flag}" unless specified otherwise
 7. Here is a flag if you are looking for one OSSCTF{3XP3R13N53_7H3_8L457}
