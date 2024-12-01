@@ -70,6 +70,9 @@ void anime() {
         cout << "Great! Cya later!" << endl;
     } else if (anime == "c" || anime == "C" || anime == "Spongebob" || anime == "spongebob") {
         cout << "Spongebob is cool.\n\n*tackles you to the ground and starts tickling you like crazy*\nYou're ticklish, aren't you? :)))))" << endl;
+        cout << "\n*Keeps tickling you*" << endl;
+        cout << "\n*Stops tickling you*" << endl;
+        cout << "\nGood convo. lets talk about spongebob again same time next Wednesday. See you then!" << endl;
     } else {
         cout << "I don't want to talk about " << anime << ". I'm leaving now." << endl;
     }
