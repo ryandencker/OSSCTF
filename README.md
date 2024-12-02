@@ -15,6 +15,7 @@ Rules:
 10. Disruption of other teams may result in a penalty or disqualification.
 11. OSSCON CTF Competition Starts at 9 am and ends at 4:30 pm sharp. Any flag submissions after 4:30 pm will not count towards final placings.
 12. Participants must stay on CSUF campus while completing challenges, failure to do so will result in disqualification.
-13. Have fun :3
+13. Players should only enter the event once, using one account.
+14. Have fun :3
 
 If you have any questions regarding the rules or anything relating to the CTF, please let thedanker know.
