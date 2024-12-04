@@ -1,0 +1,1 @@
+We’ve sniffed out a packet from the James the minion! We saw James trying to log into some insecure website (typical and expected honestly) but we need to confirm that he put company credentials into the website so we can fire him.
